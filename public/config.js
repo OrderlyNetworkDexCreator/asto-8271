@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio",
   "VITE_CUSTOM_MENUS": "𝕏, https://x.com/AstralDEX",
   "VITE_ENABLE_CAMPAIGNS": "false",
-  "VITE_TELEGRAM_URL": "",
+  "VITE_TELEGRAM_URL": "https://t.me/Astral_DEX",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "https://x.com/AstralDEX",
   "VITE_SEO_SITE_NAME": "Astral - 代币合约去中心化交易所 - 专为BSC构建的Perp Dex",
