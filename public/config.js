@@ -23,7 +23,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "https://x.com/AstralDEX",
-  "VITE_SEO_SITE_NAME": "Astral - 代币合约去中心化交易所 - 专为BSC构建的Prep Dex",
+  "VITE_SEO_SITE_NAME": "Astral - 代币合约去中心化交易所 - 专为BSC构建的Perp Dex",
   "VITE_SEO_SITE_DESCRIPTION": "",
   "VITE_SEO_SITE_URL": "https://astraldex.vip",
   "VITE_SEO_SITE_LANGUAGE": "zh",
